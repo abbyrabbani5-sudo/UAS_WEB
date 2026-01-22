@@ -4,9 +4,9 @@ Nama  : Muhammad Rabbani Arabi
 Nim   : 312410632 		 
 Kelas	: TI.24.A5
 
-LINK GITHUB	  : 
+LINK GITHUB	  : https://github.com/abbyrabbani5-sudo/UAS_WEB.git
 
-LINK YOUTUBE	:
+LINK YOUTUBE	: https://youtu.be/K83ILm5PAes?si=oOS_qzZqFOG5GA3K
 
 Note         : bisa bikin akun sendiri tapi bisa pake akun saya juga pak
 
